@@ -1,0 +1,69 @@
+=== ZETA STEALER ===
+PC Name: DEKELLY
+User: nancywilli
+IP: 72.153.230.168
+
+=== PROCESSES ===
+[System Process]
+System
+smss.exe
+csrss.exe
+csrss.exe
+wininit.exe
+winlogon.exe
+services.exe
+lsass.exe
+svchost.exe
+fontdrvhost.exe
+fontdrvhost.exe
+svchost.exe
+dwm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+VSSVC.exe
+svchost.exe
+svchost.exe
+svchost.exe
+SecurityHealthService.exe
+svchost.exe
+conhost.exe
+sihost.exe
+taskhostw.exe
+explorer.exe
+svchost.exe
+RuntimeBroker.exe
+msiexec.exe
+sppsvc.exe
+cmd.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+conhost.exe
+WmiPrvSE.exe
+WmiPrvSE.exe
+WmiPrvSE.exe
+WmiPrvSE.exe
+WmiPrvSE.exe
+svchost.exe
+Project16.exe
+conhost.exe
+dllhost.exe
+dllhost.exe
+WmiPrvSE.exe
