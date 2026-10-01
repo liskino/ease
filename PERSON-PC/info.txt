@@ -1,0 +1,52 @@
+=== ZETA STEALER ===
+PC Name: PERSON-PC
+User: person
+IP: Unknown
+
+=== PROCESSES ===
+[System Process]
+System
+smss.exe
+csrss.exe
+wininit.exe
+csrss.exe
+winlogon.exe
+services.exe
+lsass.exe
+lsm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+spoolsv.exe
+svchost.exe
+svchost.exe
+svchost.exe
+dwm.exe
+explorer.exe
+taskhost.exe
+SearchIndexer.exe
+wmpnetwk.exe
+svchost.exe
+svchost.exe
+svchost.exe
+taskmgr.exe
+wuauclt.exe
+powershell.exe
+conhost.exe
+StikyNot.exe
+notepad.exe
+notepad.exe
+notepad.exe
+notepad.exe
+notepad.exe
+notepad.exe
+mspaint.exe
+svchost.exe
+audiodg.exe
+taskeng.exe
+taskhost.exe
+cGC3J2Msq.exe
