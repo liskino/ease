@@ -1,0 +1,72 @@
+=== ZETA STEALER ===
+PC Name: 00900BC83804
+User: Administrator
+IP: 216.251.143.109
+
+=== PROCESSES ===
+[System Process]
+System
+Registry
+smss.exe
+wininit.exe
+winlogon.exe
+services.exe
+lsass.exe
+fontdrvhost.exe
+fontdrvhost.exe
+svchost.exe
+svchost.exe
+dwm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+sihost.exe
+svchost.exe
+taskhostw.exe
+svchost.exe
+explorer.exe
+StartMenuExperienceHost.exe
+SearchHost.exe
+Widgets.exe
+RuntimeBroker.exe
+RuntimeBroker.exe
+svchost.exe
+dllhost.exe
+audiodg.exe
+ctfmon.exe
+smartscreen.exe
+upfc.exe
+taskhostw.exe
+taskhostw.exe
+svchost.exe
+RuntimeBroker.exe
+TrustedInstaller.exe
+TiWorker.exe
+sppsvc.exe
+svchost.exe
+WmiPrvSE.exe
+svchost.exe
+SppExtComObj.Exe
+Taskmgr.exe
+8434401385671978438.exe
+directxdatabaseupdater.exe
+MoUsoCoreWorker.exe
+cmd.exe
+cmd.exe
+MoNotificationUx.exe
+svchost.exe
