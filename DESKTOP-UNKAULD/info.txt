@@ -1,0 +1,69 @@
+=== ZETA STEALER ===
+PC Name: DESKTOP-UNKAULD
+User: Administrator
+IP: 216.251.143.109
+
+=== PROCESSES ===
+[System Process]
+System
+Registry
+smss.exe
+wininit.exe
+winlogon.exe
+services.exe
+lsass.exe
+svchost.exe
+fontdrvhost.exe
+fontdrvhost.exe
+svchost.exe
+dwm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+OfficeClickToRun.exe
+svchost.exe
+blnsvr.exe
+qemu-ga.exe
+launcher-x64.exe
+conhost.exe
+svchost.exe
+svchost.exe
+sihost.exe
+svchost.exe
+taskhostw.exe
+explorer.exe
+svchost.exe
+svchost.exe
+StartMenuExperienceHost.exe
+RuntimeBroker.exe
+SearchApp.exe
+RuntimeBroker.exe
+RuntimeBroker.exe
+dllhost.exe
+conhost.exe
+Taskmgr.exe
+ShellExperienceHost.exe
+WmiPrvSE.exe
+RuntimeBroker.exe
+audiodg.exe
+taskhostw.exe
+WmiApSrv.exe
+WmiPrvSE.exe
+sppsvc.exe
+SppExtComObj.Exe
+svchost.exe
+WmiPrvSE.exe
+bf0a9123e3998585aeafeeba1671e8a2.exe
+svchost.exe
+taskhostw.exe
+cmd.exe
+conhost.exe
